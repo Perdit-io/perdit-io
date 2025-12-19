@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Angeles</h1>
 <h3 align="center">A Computer Science student from De La Salle University</h3>
 
-- 🌱 I’m currently learning **C++ and Rust**
+- 🌱 I’m currently learning **Zig and Rust**
 
 - 👯 I’m looking to collaborate on **web browser projects**
 
